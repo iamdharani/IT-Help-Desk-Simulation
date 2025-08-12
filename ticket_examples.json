@@ -1,0 +1,52 @@
+[
+  {
+    "ticket_id": "TCK-001",
+    "date_created": "2025-08-12",
+    "issue_title": "Wi-Fi not connecting",
+    "category": "Network",
+    "priority": "High",
+    "status": "Resolved",
+    "assigned_to": "Dharani",
+    "resolution_summary": "Restarted router, updated driver"
+  },
+  {
+    "ticket_id": "TCK-002",
+    "date_created": "2025-08-12",
+    "issue_title": "Forgot email password",
+    "category": "Account",
+    "priority": "Medium",
+    "status": "Resolved",
+    "assigned_to": "Dharani",
+    "resolution_summary": "Reset password via admin panel"
+  },
+  {
+    "ticket_id": "TCK-003",
+    "date_created": "2025-08-13",
+    "issue_title": "Printer not printing",
+    "category": "Hardware",
+    "priority": "Low",
+    "status": "Resolved",
+    "assigned_to": "Dharani",
+    "resolution_summary": "Cleared print queue and reinstalled printer"
+  },
+  {
+    "ticket_id": "TCK-004",
+    "date_created": "2025-08-13",
+    "issue_title": "Software not loading",
+    "category": "Software",
+    "priority": "High",
+    "status": "In-Progress",
+    "assigned_to": "Dharani",
+    "resolution_summary": "Investigating corrupted installation files"
+  },
+  {
+    "ticket_id": "TCK-005",
+    "date_created": "2025-08-14",
+    "issue_title": "Unable to access shared folder",
+    "category": "Network",
+    "priority": "Medium",
+    "status": "Resolved",
+    "assigned_to": "Dharani",
+    "resolution_summary": "Corrected permissions and reconnected to server"
+  }
+]
